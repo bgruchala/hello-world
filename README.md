@@ -1,2 +1,5 @@
 # hello-world
-Bartek's first repository
+
+Hi!
+
+Bartek here, I like cookies, coffee and wine.
